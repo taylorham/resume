@@ -1,9 +1,10 @@
 .container {
   margin-top: 30px;
+  margin-bottom: 50px;
 }
 
 hr {
-  border-top-style: dotted;
+  border-top-style: 5px dotted #333;
 }
 
 ul {
