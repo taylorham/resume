@@ -1,0 +1,81 @@
+.container {
+  margin-top: 30px;
+}
+
+hr {
+  border-top-style: dotted;
+}
+
+ul {
+  margin-top: 15px;
+}
+
+.skills li > span {
+  float: left;
+  margin-right: 0;
+}
+
+.skills ul {
+  margin-top: 9px;
+}
+
+.skills .progress {
+  margin: 0 0 9px auto;
+  width: 60%;
+}
+/*
+.v-aligner {
+  display: table;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.v-align-center {
+  display: table-cell;
+  vertical-align: middle;
+}
+*/
+.photo img {
+  width: 250px;
+  max-width: 100%;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.personal {
+  margin-top: 15px;
+}
+
+.about {
+  margin-top: 30px;
+  font-size: 14px;
+}
+
+.contact-info {
+  margin-top: 15px;
+}
+
+.heading h1,
+.heading h3 {
+  margin-top: 9px;
+}
+
+.level-1 {
+  width: 20%;
+}
+
+.level-2 {
+  width: 40%;
+}
+
+.level-3 {
+  width: 60%;
+}
+
+.level-4 {
+  width: 80%;
+}
+
+.level-5 {
+  width: 100%;
+}
