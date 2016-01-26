@@ -11,43 +11,32 @@ ul {
   margin-top: 15px;
 }
 
-.skills li > span {
+#skills li > span {
   float: left;
   margin-right: 0;
 }
 
-.skills ul {
+#skills ul {
   margin-top: 9px;
 }
 
-.skills .progress {
+#skills .progress {
   margin: 0 0 9px auto;
   width: 60%;
 }
-/*
-.v-aligner {
-  display: table;
-  margin: 0 auto;
-  height: 100%;
-}
 
-.v-align-center {
-  display: table-cell;
-  vertical-align: middle;
-}
-*/
-.photo img {
+#photo img {
   width: 250px;
   max-width: 100%;
   border-radius: 50%;
   margin-bottom: 15px;
 }
 
-.personal {
+#personal {
   margin-top: 15px;
 }
 
-.about {
+#about {
   margin-top: 30px;
   font-size: 14px;
 }
